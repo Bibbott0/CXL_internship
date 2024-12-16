@@ -308,7 +308,7 @@ label_count_analysis <- function(metadata_df, labelled_df, target_labels) {
 }
 ```
 
-Calling function
+**Calling function**
 
 ``` r
 Animals_to_label <- label_count_analysis(lila_metadata_counts, labelled_counts, target_labels = 10000)
@@ -422,7 +422,7 @@ sample_unlabelled_images <- function(unlabelled_images, lca_result)
 }
 ```
 
-Calling function
+**Calling function**
 
 ``` r
 #This takes a while to run so skip unless you do not have the relevant stratified sample CSV or need to generate a new one.
@@ -433,7 +433,7 @@ animals_10k_target_stratified_sample <- sample_unlabelled_images(unlabelled_imag
     ## 
     ## Processing complete!
 
-Loading in previosuly created CSV
+Loading in previously created CSV
 
 ``` r
 animals_10k_target_stratified_sample <- read.csv("/Users/user/CXL_internship/CXL_R_Directory/animals_10k_target_stratified_sample.csv")
@@ -441,8 +441,7 @@ animals_10k_target_stratified_sample <- read.csv("/Users/user/CXL_internship/CXL
 
 ## Stratified sample visualisation
 
-Count of images per species to confirm against “Animals_to_label”
-dataframe
+**Count of images per species to confirm against “Animals_to_label” dataframe**
 
 ``` r
 animals_above_count <- table(animals_10k_target_stratified_sample$species)
@@ -462,8 +461,7 @@ print(animals_above_count)
 # Turning this into a dataframe 
 ```
 
-View distribution of samples across locations for each species
-
+**View distribution of samples across locations for each species**
 ``` r
 # Counts of species across locations
 location_distribution <- table(animals_10k_target_stratified_sample$species, # update here with relevant csv
@@ -485,10 +483,8 @@ print(distribution_wide)
 In the case of this NZ data ^ there are around 2500 differenct camera
 trap locations making this table view pretty inefficient.
 
-Bar Plot for easier visualisation (with so many locations its hard to
-see y-axis, important part is seeing bar distribution for overall veiw.)
-
-Plots can be seen in Distribution figures folder
+**Bar Plot for easier visualisation** (with so many locations its hard to
+see y-axis, important part is seeing bar distribution for overall view.) - Plots can be seen in Distribution figures folder
 ``` r
 species_list <- unique(location_dist_df$Species)
 
