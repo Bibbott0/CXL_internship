@@ -488,6 +488,7 @@ trap locations making this table view pretty inefficient.
 Bar Plot for easier visualisation (with so many locations its hard to
 see y-axis, important part is seeing bar distribution for overall veiw.)
 
+Plots can be seen in Distribution figures folder
 ``` r
 species_list <- unique(location_dist_df$Species)
 
