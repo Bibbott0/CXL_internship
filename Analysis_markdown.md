@@ -512,7 +512,7 @@ for(sp in species_list) {
 }
 ```
 
-![](Analysis_markdown_files/Distribution_figure/Rabbit_distribution_across_locations.png)<!-- -->![](Analysis_markdown_files/figure-gfm/unnamed-chunk-24-2.png)<!-- --> -
+![](Distribution_figure/Rabbit_distribution_across_locations.png)<!-- -->![](Analysis_markdown_files/figure-gfm/unnamed-chunk-24-2.png)<!-- --> -
 Many cases there is large difference across locations (i.e. rabbit),
 this is not due to a stratified sampling error it is simply because some
 locations have such few sighting of animals. - In reality this
