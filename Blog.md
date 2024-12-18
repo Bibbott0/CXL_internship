@@ -4,7 +4,7 @@
 (Internship at ConservationXLabs)
 
 ![image](https://github.com/user-attachments/assets/39733f72-1050-4e9d-b896-4a66ee26ff80)
-~ <font size=2>Image from LILA BC, New Zealand camera trap dataset. An image used to train the model.</font>
+*Image from LILA BC, New Zealand camera trap dataset. An image used to train the model.*
 
 ## Background
 Currently, 40 Sentinel-powered cameras are being deployed in New Zealand for the purpose of monitoring invasive species. ==This is the largest deployment of Sentinel to date (is this true?)==! For Sentinel to efficiently identify and track these invasive species, the model requires vast amounts of data and training to work; and this is where I come in!
@@ -18,7 +18,7 @@ Sentinel is an AI-powered technology that pairs with camera traps to monitor wil
 Conservation teams can easily filter through the data to identify relevant species, behaviours, or signs of disease, enabling immediate response based on their specific needs. Moreover, the long-term data collected and categorised by Sentinel provides valuable insights into behaviour patterns and population demographics - information that has traditionally been difficult to gather accurately across large areas.
 
 ![image](https://github.com/user-attachments/assets/e57287cc-aa18-472c-9f05-b7f855362d18)
-~ <font size=2>Visual summary of different products offered in Sentinel project. Image taken from CXL's website  </font>
+*~Visual summary of different products offered in Sentinel project. Image taken from CXL's website*
 	https://sentinel.conservationxlabs.com
 
 ### Waiting for Dante to answer questions before writing 
@@ -38,7 +38,7 @@ After making my way through the pipeline it was time to label. Simply put, I saw
 If you ever need someone to identify a New Zealand bird or answer the age old question of - is this a weasel or a stoat? (which is hard to distinguish than you may think) - Call me!
 
 ![image](https://github.com/user-attachments/assets/14003ea1-4a29-4b3d-bd49-3ad3dcb8a69a)
-<font size=2>~ An image showing an example of the LabelMe user-interface</font> 
+*~An example of the LabelMe user-interface*
 
 Lastly, I developed an analysis pipeline in R that serves multiple purposes. It allows easy manipulation of the LILA New Zealand dataset for extracting specific subsets of images used in model training. The pipeline can analyse labelled data to create useful breakdowns - showing total versus labelled images, species distributions, and progress towards labelling targets for each animal. It also includes error checks to ensure labelled image counts accurately match the CSVs used for model training.
 
