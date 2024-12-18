@@ -7,7 +7,7 @@
 *~Image from LILA BC, New Zealand camera trap dataset. An image used to train the model.*
 
 ## Background
-Currently, 40 Sentinel-powered cameras are being deployed in New Zealand for the purpose of monitoring invasive species. ==This is the largest deployment of Sentinel to date (is this true?)==! For Sentinel to efficiently identify and track these invasive species, the model requires vast amounts of data and training to work; and this is where I come in!
+Currently, 40 Sentinel-powered cameras are being deployed in New Zealand for the purpose of monitoring invasive species. This is one of the largest deployment of Sentinel to date. For Sentinel to effectively identify and track these invasive species, the model requires vast amounts of data and training to work; and this is where I come in!
 
 I'm Ben, a PhD student at Oxford University currently working on a molecular/computational neuroscience project to better understand the basis of memory. I'm actually on the same PhD programme that CXL's lead AI researcher, Dante Wasmuht, started in 2015. Even more serendipitously, he was the former supervisor of a post-doc who co-supervises me during my own PhD - you could say he is my academic grandfather.
 
