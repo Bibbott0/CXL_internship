@@ -4,7 +4,7 @@
 (Internship at ConservationXLabs)
 
 ![image](https://github.com/user-attachments/assets/39733f72-1050-4e9d-b896-4a66ee26ff80)
-*Image from LILA BC, New Zealand camera trap dataset. An image used to train the model.*
+*~Image from LILA BC, New Zealand camera trap dataset. An image used to train the model.*
 
 ## Background
 Currently, 40 Sentinel-powered cameras are being deployed in New Zealand for the purpose of monitoring invasive species. ==This is the largest deployment of Sentinel to date (is this true?)==! For Sentinel to efficiently identify and track these invasive species, the model requires vast amounts of data and training to work; and this is where I come in!
