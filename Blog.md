@@ -48,3 +48,20 @@ The aforementioned analysis pipeline, figures and other species identification d
 The foundation has now been laid for the initial model training, and its performance can soon be evaluated with the New Zealand deployment. As more data is collected, it can be cleaned and labelled to further improve models effectiveness.
 
 Looking ahead, I'm excited to pursue a small-scale UK project as an extension of this internship. I'll be setting up a Camera trap + Sentinel system in Oxford to collect a novel dataset. After labelling this data, I'll train a model specific to Oxford wildlife, with potential to expand across more of the UK. This will be a great opportunity to be involved in every aspect of Sentinel: from hardware setup and data extraction through CXL's user interface, to data cleaning and labelling, as well as more advanced work on building and improving the neural networks that power Sentinel's models.
+
+![image](https://github.com/user-attachments/assets/7aa76ee7-12d0-4aef-aa7b-771e7fd42d81)
+
+---
+
+## Bonus images!
+#1
+![image](https://github.com/user-attachments/assets/e554e993-8730-4845-94ac-7111d2143763)
+#2 
+![image](https://github.com/user-attachments/assets/9bebc811-bf81-4730-8fc5-bece5a761a6e)
+#3 
+![image](https://github.com/user-attachments/assets/613f81f0-d2c5-4b0e-b08f-edeb1b966e1b)
+
+
+
+
+
