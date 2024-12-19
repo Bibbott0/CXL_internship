@@ -55,10 +55,15 @@ Looking ahead, I'm excited to pursue a small-scale UK project as an extension of
 
 ## Bonus images!
 #1
+
 ![image](https://github.com/user-attachments/assets/e554e993-8730-4845-94ac-7111d2143763)
+
 #2 
+
 ![image](https://github.com/user-attachments/assets/9bebc811-bf81-4730-8fc5-bece5a761a6e)
+
 #3 
+
 ![image](https://github.com/user-attachments/assets/613f81f0-d2c5-4b0e-b08f-edeb1b966e1b)
 
 
