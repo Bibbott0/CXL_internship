@@ -21,13 +21,12 @@ Conservation teams can easily filter through the data to identify relevant speci
 *~Visual summary of different products offered in Sentinel project. Image taken from CXL's website*
 	https://sentinel.conservationxlabs.com
 
-### Waiting for Dante to answer questions before writing 
-Sentinel has been previously deployed in the Galapagos 
-==include information about case study here==
-**include nice picture maybe?**
+Sentinel has been successfully deployed in various locations, proving particularly effective in island conservation projects with limited personnel and challenging terrain. Its real-time classification of invasive species locations enables efficient response, addressing a key limitation of traditional camera traps, which were bottlenecked by data collection and processing times. The local Floreana team in the Galápagos reported that Sentinel was incredibly valuable to their operations.
 
-The **New Zealand deployment** will look to monitor invasive species 
-==more information==
+As mentioned, the focus of this work is for the New Zealand deployment. It will take place in the Auckland Islands, a nature reserve and World Heritage site with native species found nowhere else in the world. Unfortunately, the introduction of invasive pest species (wild pigs, feral cats, non-native rodents, and more) has resulted in the local extinction of numerous native animals and has pushed even more into endangered categories. As such, the goal of this deployment is to track and eradicate these invasive animals to allow native populations to be restored.
+	More specific details found here - https://www.doc.govt.nz/our-work/restoring-auckland-island/
+
+ ---
 
 ## Internship work
 So, what was my role in all of this? Well, to start, I did what all people do when they're handed a huge code repository and that was find ways, never before imagined to break it! 
