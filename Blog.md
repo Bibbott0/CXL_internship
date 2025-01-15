@@ -38,15 +38,15 @@ After making my way through the pipeline it was time to label. Simply put, I saw
 It was simultaneously fun and infuriating having to learn about tiny details separating animals whether by sex or species to ensure accurate identification. Here are a few examples to highlight this:
 
 **Weasels vs Stoats**
-- Weasels (left) are smaller and have shorter tails without the black tip that the Stoats (right) have.
+Weasels (left) are smaller and have shorter tails without the black tip that the Stoats (right) have.
 ![image](https://github.com/user-attachments/assets/d2b3961d-8f26-4080-9797-783a005bb0cb)
 
 **Male vs Female Chaffinch's**
-- A male Chaffinch (left) has distinct coloured feathers with a red-rust body and blueish-grey head. In comparison, the female Chaffinch (right) has a more generic feather colouration.
+A male Chaffinch (left) has distinct coloured feathers with a red-rust body and blueish-grey head. In comparison, the female Chaffinch (right) has a more generic feather colouration.
 ![image](https://github.com/user-attachments/assets/5356b4e2-1f5c-4108-aba6-56cb4198d2a0)
 
 **Thrush vs Pipit vs Dunnock**
-- These three birds look quite similar, especially in low-resolution camera trap images. The thrush (left) tends to be the largest of the three and has a spotted black breast pattern. The pipit (middle) is typically more slender, with a narrow beak and a distinct repetitive pattern on its wing feathers. The Dunnock (right) is the smallest of the three birds with a plump body and feathers that are more blueish-grey.
+These three birds look quite similar, especially in low-resolution camera trap images. The thrush (left) tends to be the largest of the three and has a spotted black breast pattern. The pipit (middle) is typically more slender, with a narrow beak and a distinct repetitive pattern on its wing feathers. The Dunnock (right) is the smallest of the three birds with a plump body and feathers that are more blueish-grey.
 ![image](https://github.com/user-attachments/assets/e33f199a-7c71-45bc-9dfd-4e363d81b3cc)
 
 
