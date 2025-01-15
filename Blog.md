@@ -53,11 +53,6 @@ These three birds look quite similar, especially in low-resolution camera trap i
 ![image](https://github.com/user-attachments/assets/e33f199a-7c71-45bc-9dfd-4e363d81b3cc)
 
 
-
-**Lastly, the Labelme interface**
-![image](https://github.com/user-attachments/assets/14003ea1-4a29-4b3d-bd49-3ad3dcb8a69a)
-
-
 Lastly, I developed an analysis pipeline in R that serves multiple purposes. It allows easy manipulation of the LILA New Zealand dataset for extracting specific subsets of images used in model training. The pipeline can analyse labelled data to create useful breakdowns - showing total versus labelled images, species distributions, and progress towards labelling targets for each animal. It also includes error checks to ensure labelled image counts accurately match the CSVs used for model training.
 
 The aforementioned analysis pipeline, figures and other species identification documents are available in our public GitHub repository: 🔗 https://github.com/Bibbott0/CXL_internship
@@ -66,8 +61,6 @@ The aforementioned analysis pipeline, figures and other species identification d
 The foundation has now been laid for the initial model training, and its performance can soon be evaluated with the New Zealand deployment. As more data is collected, it can be cleaned and labelled to further improve models effectiveness.
 
 Looking ahead, I'm excited to pursue a small-scale UK project as an extension of this internship. I'll be setting up a Camera trap + Sentinel system in Oxford to collect a novel dataset. After labelling this data, I'll train a model specific to Oxford wildlife, with the potential to expand across more of the UK. This will be a great opportunity to be involved in every aspect of Sentinel: from hardware setup and data extraction through CXL's user interface, to data cleaning and labelling, as well as more advanced work on building and improving the neural networks that power Sentinel's models.
-
-![image](https://github.com/user-attachments/assets/7aa76ee7-12d0-4aef-aa7b-771e7fd42d81)
 
 ---
 
