@@ -33,7 +33,7 @@ So, what was my role in all of this? Well, to start, I did what all people do wh
 
 After a week of blindly traversing this code jungle, I cleared through enough digital vegetation and started to assist in optimising different aspects of the pipeline. As only small amounts of data had been parsed through this pipeline before, it meant during my week 1 rampage I uncovered various niche scenarios in which the code was not suitable. An example is: corresponding metadata missing/in the wrong format, breaking the code. Some more substantial changes were also made, such as adding functionality (hotkeys for the GUI) to software that is used in the labelling process, to increase efficiency.
 
-After making my way through the pipeline it was time to label. Simply put, I saw LOTS  of images (around 250,000 to be specific) containing animals from New Zealand and if they had the wrong species label on them or were not detected by the MegaDetector algorithm I fixed that. During this labelling process, I also tracked the frequencies of errors to determine which aspects of the detecting and labelling algorithms were the most error-prone.
+After making my way through the pipeline it was time to label. Simply put, I saw LOTS of images containing animals from New Zealand and if they had the wrong species label on them or were not detected by the MegaDetector algorithm I fixed that. During this labelling process, I also tracked the frequencies of errors to determine which aspects of the detecting and labelling algorithms were the most error-prone.
 
 It was simultaneously fun and infuriating having to learn about tiny details separating animals whether by sex or species to ensure accurate identification. Here are a few examples to highlight this:
 
